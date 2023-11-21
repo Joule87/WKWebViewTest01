@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "WebViewCoordinator.webView(_:decidePolicyFor:preferences:decisionHandler:):WebViewTest01.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "navigationAction.shouldPerformDownload">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WebViewCoordinator.webView(_:decidePolicyFor:decisionHandler:):WebViewTest01.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "navigationResponse.canShowMIMEType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
